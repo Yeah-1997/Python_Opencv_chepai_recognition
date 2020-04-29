@@ -1,0 +1,2 @@
+# Python_Opencv_chepai_recognition
+python+opencv车牌识别
